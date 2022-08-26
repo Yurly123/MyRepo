@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Yurly123\MyRepo\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe.config
+C:\Users\USER\source\repos\Yurly123\MyRepo\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe
+C:\Users\USER\source\repos\Yurly123\MyRepo\ExampleProject\ExampleProject\bin\Debug\ExampleProject.pdb
+C:\Users\USER\source\repos\Yurly123\MyRepo\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Yurly123\MyRepo\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Yurly123\MyRepo\ExampleProject\ExampleProject\obj\Debug\ExampleProject.exe
+C:\Users\USER\source\repos\Yurly123\MyRepo\ExampleProject\ExampleProject\obj\Debug\ExampleProject.pdb
